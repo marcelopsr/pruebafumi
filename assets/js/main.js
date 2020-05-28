@@ -5,11 +5,6 @@
 * License: https://bootstrapmade.com/license/
 */
 
-$(document).ready(function() {
-  $("form#login").validate({
-    lang: 'es'  // or whatever language option you have.
-  });
-});
 !(function($) {
   "use strict";
 
